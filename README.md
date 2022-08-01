@@ -18,6 +18,10 @@ are the transformations to be implemented:</p>
   - Rotation centered at O,
   - Reflection over any axis that passes through O,
   - Any combination of the previous transformations.
+
+<h2> Instalation </h2>
+
+      git clone git@github.com:Yahia-Abdchafee-ADAM/102architecht.git 
   
   <h2> Usage </h>
   
